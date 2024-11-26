@@ -1,7 +1,7 @@
 # wishiu
 
 <img src="https://github.com/miguelssimao/wishiu/blob/main/app/src/main/res/drawable/ic_launcher_round.png" align="left" height="72"/>
-The <b>wishiu</b> is an Android application that resulted from my University project for the Mobile Application Development course, back in 2019. This is a simple wishlist app that can also help you track your savings so you can ultimately be able to purchase the items in your list.
+The <b>wishiu</b> is an Android application that resulted from my University project for the Mobile App Development course. This is a simple wishlist app that can also help you track your savings so you can ultimately be able to purchase the items in your list.
 
 <br clear="left"/>
 <br clear="left"/>
